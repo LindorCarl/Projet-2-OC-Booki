@@ -279,9 +279,37 @@ body {
     color: #0065FC;
 }
 
+.hébergement_boite:hover > .hébergement_boite_note {
+    animation: brille 1s infinite;
+}
+
+@keyframes brille {
+    0% {
+        opacity: 1;
+    }
+
+    40% {
+        opacity: 1;
+    }
+
+    70% {
+        opacity: 0.7;
+    }
+
+    100% {
+        opacity: 0.4;
+    }
+}
+
 .gris {
     color: #F2F2F2;
 }
+
+.hébergement_boite:hover > .gris  {
+    animation: bouge 1s infinite;
+}
+
+@keyframes bouge {}
 
 .hébergement_lien {
     font-weight: 700;
