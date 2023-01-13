@@ -305,12 +305,6 @@ body {
     color: #F2F2F2;
 }
 
-.hébergement_boite:hover > .gris  {
-    animation: bouge 1s infinite;
-}
-
-@keyframes bouge {}
-
 .hébergement_lien {
     font-weight: 700;
     font-size: 18px;
