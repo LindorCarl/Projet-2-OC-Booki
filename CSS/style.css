@@ -215,7 +215,6 @@ body {
     border-radius: 15px;
     flex-direction: row;
     flex-wrap: wrap;
-    
 }
 
 .hébergement_titre {
@@ -359,7 +358,6 @@ body {
 .corps_activité {
     width: 100%;
     margin-top: 60px;
-    
 }
 
 .activité_titre {
@@ -923,4 +921,5 @@ body {
         padding: 0;
     }
 }
+
 /* FIN */
