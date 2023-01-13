@@ -50,7 +50,6 @@ body {
 
 /* Section 2 corps de page */
 /* Titre */
-
 .corps_texte {
     margin: 50px 30px 0 30px; 
 }
@@ -354,7 +353,6 @@ body {
 }
 
 /* Activités à Marseille */
-
 .corps_activité {
     width: 100%;
     margin-top: 60px;
@@ -434,7 +432,7 @@ body {
     color: #0065FC;
 }
 
-/* Media Queries EN DESKTOP FIRST */
+/* Media Queries POUR DESKTOP */
 @media screen and (max-width: 1115px) {
 
     .filtre_texte {
@@ -654,7 +652,6 @@ body {
 }
 
 /* Media Queries POUR SMARTPHONE */
-
 @media screen and (max-width: 767px) {
     /* Section 1 Menu */
     .navbar {
