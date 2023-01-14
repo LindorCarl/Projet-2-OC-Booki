@@ -1,6 +1,6 @@
 # Projet 2 du parcours Développeur web d'OpenClassrooms : Transformez une maquette en site web avec HTML & CSS  
 
-__Objectif :__
+## Objectif :
 Réaliser l'intégration de la maquette d'un site de planification de vacances nommé "Booki".
 
 __Technologies, logiciels et langages utilisés :__
