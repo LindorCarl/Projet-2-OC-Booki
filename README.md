@@ -17,7 +17,7 @@ Réaliser l'intégration de la maquette d'un site de planification de vacances n
 3. Les couleurs : bleu (#0065FC) - bleu clair (#DEEBFF) - gris (#F2F2F2)
 4. La police : "Raleway"  
 
-## Cahier des charges
+## :dart: Cahier des charges
 * L'integration doit se faire en HTML5 & CSS3, sans framework (bootstrap par exemple)
 * Le champ de recherche doit être un champ de saisie, dont le texte peut être édité. La fonctionnalité de recherche ne doit pas être implémenté pour autant.
 * Chaque carte d’hébergement ou d’activité devra être cliquable dans son intégralité. Pour l’instant les liens seront vides.
