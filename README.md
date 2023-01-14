@@ -29,7 +29,7 @@ Réaliser l'intégration de la maquette d'un site de planification de vacances n
 * Le site devra être compatible avec les dernières versions de Chrome et Firefox.
 * Le HTML et le CSS doivent être séparés et le dossier doit être organisé.
 
-## Compétences évaluées
+## :white_check_mark: Compétences évaluées
 1. Utiliser un système de gestion de versions pour le suivi du projet et son hébergement
 2. Mettre en place son environnement Front-End
 3. Intégrer du contenu conformément à une maquette
